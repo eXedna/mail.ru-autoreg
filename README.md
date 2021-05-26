@@ -2,13 +2,13 @@
 
 > Чтобы регестрировать аккаунты вам необходимо получить api-ключ от sms-activate.ru
 
--`git clone https://github.com/eXedna/mail.ru-autoreg`
+- `git clone https://github.com/eXedna/mail.ru-autoreg`
 
--`cd mail.ru-autoreg`
+- `cd mail.ru-autoreg`
 
--`sh install.sh`
+- `sh install.sh`
 
--`./main.py`
+- `./main.py`
 
 
 
